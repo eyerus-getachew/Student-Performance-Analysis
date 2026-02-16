@@ -63,7 +63,7 @@ Key plots illustrating the analysis:
 
 1. Average Scores by Gender  ![Average Scores by Gender](images/gender_scores.png)
 
-2. Impact of Test Preparation on Scores  !["Impact of Test Preparation on Scores](images/prep_scores.png)
+2. Impact of Test Preparation on Scores  ![Impact of Test Preparation on Scores](images/prep_scores.png)
 
 3. Correlation Heatmap Between Subjects  ![Correlation Between Subjects](images/corr.png)
 
